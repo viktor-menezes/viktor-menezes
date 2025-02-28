@@ -1,9 +1,7 @@
-## Hi there 👋
+# 🪐 About Me
+Hello, I'm Victor, I'm 15 years old, and I'm dedicated to studying web development. My goal is to become a Full-Stack Developer, and I'm constantly learning and improving my skills to achieve this objective.
+## 🌐 My Networks/Contacts
 
-<!--
-**viktor-menezes/viktor-menezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
